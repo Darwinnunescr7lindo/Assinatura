@@ -1,9 +1,9 @@
 :root {
-    --branco-principal: #ffffff ;
-    --roxo-pimário: #7e1bcf;
-    --roxo-secundario: #7a049e;
-    --botao-azul: #202de9;
-    --cor-de-fundo: #e9c5c5 ;
+    --branco-principal: #000000 ;
+    --roxo-pimário: #000000;
+    --roxo-secundario: #000000;
+    --botao-azul: #0385ff;
+    --cor-de-fundo: #041dfc ;
 }
    
 body {
